@@ -1,1 +1,1 @@
-Interessante gebieden voor natuurliefhebbers
+Interessante gebieden voor natuurliefhebbers, met name in Fryslan.
