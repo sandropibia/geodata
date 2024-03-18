@@ -4,4 +4,4 @@ Te openen met diverse software.
 
 - QGIS
 - ArcGIS
-- 
+- Leaflet
