@@ -1,2 +1,2 @@
 # geodata
-testsets of geodata
+Geographie bestanden voor gebruik in verschillende soorten software.
