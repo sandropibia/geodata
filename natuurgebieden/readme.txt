@@ -1,4 +1,5 @@
-Interessante gebieden voor natuurliefhebbers, met name in Fryslan.
+Interessante gebieden voor natuurliefhebbers.
+Zoals vogelgebieden.
 
 Te openen met diverse software.
 
