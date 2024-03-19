@@ -1,5 +1,5 @@
 Interessante gebieden voor natuurliefhebbers.
-Zoals vogelgebieden.
+Zoals vogelgebieden, vissen, insecten.
 
 Te openen met diverse software.
 
