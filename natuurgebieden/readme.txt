@@ -9,4 +9,5 @@ Te openen met diverse software.
 - ArcGIS
 - Leaflet
 - MapBox
-- MapViewer
+- MapWindow
+- MapInfo
