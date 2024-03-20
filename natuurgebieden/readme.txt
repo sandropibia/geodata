@@ -9,6 +9,6 @@ Te openen met diverse software.
 - ArcGIS
 - Leaflet
 - MapBox
-- MapWindow
+- Grass GIS
 - MapInfo
 - Cadcorp
