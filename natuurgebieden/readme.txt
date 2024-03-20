@@ -11,3 +11,4 @@ Te openen met diverse software.
 - MapBox
 - MapWindow
 - MapInfo
+- Cadcorp
