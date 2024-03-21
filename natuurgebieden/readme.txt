@@ -1,8 +1,9 @@
 Interessante gebieden voor natuurliefhebbers.
-Zoals vogelgebieden, vissen, insecten.
+Zoals vogels, vissen, insecten.
 
 Probeer ook zoveel mogelijk locaties te verzamelen om eigen geo data te maken.
-Formaat is geojson bestanden.
+Formaten van bestanden:
+geojson
 
 Te openen met diverse software.
 
