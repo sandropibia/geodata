@@ -6,6 +6,7 @@ Formaten van bestanden:
 geojson
 shp
 gpx
+kml
 
 
 Te openen met diverse software.
